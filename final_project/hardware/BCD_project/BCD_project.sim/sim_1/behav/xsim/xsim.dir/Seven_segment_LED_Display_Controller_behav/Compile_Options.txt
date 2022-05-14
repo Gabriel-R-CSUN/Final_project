@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "xilinx_vip" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "Seven_segment_LED_Display_Controller_behav" "xil_defaultlib.Seven_segment_LED_Display_Controller" "xil_defaultlib.glbl" -log "elaborate.log" 

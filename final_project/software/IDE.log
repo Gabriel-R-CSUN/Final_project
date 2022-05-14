@@ -1,0 +1,13 @@
+20:51:50 INFO  : Platform repository initialization has completed.
+20:51:50 INFO  : Launching XSCT server: xsct -n  -interactive /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/temp_xsdb_launch_script.tcl
+20:51:50 INFO  : Registering command handlers for Vitis TCF services
+20:51:53 INFO  : XSCT server has started successfully.
+20:51:53 INFO  : plnx-install-location is set to ''
+20:51:53 INFO  : Successfully done setting XSCT server connection channel  
+20:51:53 INFO  : Successfully done query RDI_DATADIR 
+20:51:53 INFO  : Successfully done setting workspace for the tool. 
+20:53:10 INFO  : Result from executing command 'getProjects': design_1_wrapper
+20:53:10 INFO  : Result from executing command 'getPlatforms': 
+20:53:10 WARN  : An unexpected exception occurred in the module 'platform project logging'
+20:53:10 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+20:53:16 INFO  : Platform 'design_1_wrapper' is added to custom repositories.

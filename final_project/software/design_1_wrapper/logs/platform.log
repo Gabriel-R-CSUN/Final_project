@@ -1,0 +1,1422 @@
+TRACE::2022-05-12.20:53:04::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:04::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:04::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:04::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:04::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:04::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:04::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-05-12.20:53:05::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-05-12.20:53:05::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2022-05-12.20:53:05::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-05-12.20:53:05::SCWDomain::checking for install qemu data   : 
+TRACE::2022-05-12.20:53:05::SCWDomain:: Using the QEMU Data from install at  : /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2022-05-12.20:53:05::SCWDomain:: Using the QEMU args  from install at  : /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:05::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2022-05-12.20:53:05::SCWPlatform::Generating the sources  .
+TRACE::2022-05-12.20:53:05::SCWBDomain::Generating boot domain sources.
+TRACE::2022-05-12.20:53:05::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:05::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:05::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:05::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-05-12.20:53:05::SCWMssOS::No sw design opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:05::SCWMssOS::mss does not exists at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:05::SCWMssOS::Creating sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:05::SCWMssOS::Adding the swdes entry, created swdb /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:05::SCWMssOS::updating the scw layer changes to swdes at   /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:05::SCWMssOS::Writing mss at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:05::SCWMssOS::Completed writing the mss file at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-05-12.20:53:05::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-05-12.20:53:05::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-05-12.20:53:05::SCWBDomain::Completed writing the mss file at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-05-12.20:53:09::SCWPlatform::Generating sources Done.
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-05-12.20:53:09::SCWMssOS::No sw design opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::mss exists loading the mss file  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Opened the sw design from mss  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Adding the swdes entry /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2022-05-12.20:53:09::SCWMssOS::updating the scw layer about changes
+TRACE::2022-05-12.20:53:09::SCWMssOS::Opened the sw design.  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:09::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:09::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:09::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:09::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4c93f316c9e10fd0d3f3ec3cf641ea58",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-05-12.20:53:09::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:09::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:09::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:09::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:09::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4c93f316c9e10fd0d3f3ec3cf641ea58",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWDomain::checking for install qemu data   : 
+TRACE::2022-05-12.20:53:09::SCWDomain:: Using the QEMU Data from install at  : /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2022-05-12.20:53:09::SCWDomain:: Using the QEMU args  from install at  : /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:09::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:09::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:09::SCWMssOS::No sw design opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::mss does not exists at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Creating sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Adding the swdes entry, created swdb /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::updating the scw layer changes to swdes at   /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Writing mss at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:09::SCWMssOS::Completed writing the mss file at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2022-05-12.20:53:09::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-05-12.20:53:09::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-05-12.20:53:09::SCWMssOS::Completed writing the mss file at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2022-05-12.20:53:09::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Adding the swdes entry, mss present, able to open swdb /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system_0
+TRACE::2022-05-12.20:53:10::SCWMssOS::Writing the mss file completed /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4c93f316c9e10fd0d3f3ec3cf641ea58",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"e98f979ccc310e079e0617cd6f0af564",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-05-12.20:53:10::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2022-05-12.20:53:10::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-05-12.20:53:10::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2022-05-12.20:53:10::SCWSystem::Checking the domain zynq_fsbl
+LOG::2022-05-12.20:53:10::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2022-05-12.20:53:10::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-05-12.20:53:10::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2022-05-12.20:53:10::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2022-05-12.20:53:10::SCWSystem::Not a boot domain 
+LOG::2022-05-12.20:53:10::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2022-05-12.20:53:10::SCWDomain::Generating domain artifcats
+TRACE::2022-05-12.20:53:10::SCWMssOS::Generating standalone artifcats
+TRACE::2022-05-12.20:53:10::SCWMssOS::Copying the qemu file from  /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2022-05-12.20:53:10::SCWMssOS::Copying the qemu file from  /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_ps7_cortexa9_0/qemu/
+TRACE::2022-05-12.20:53:10::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writing the mss file at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2022-05-12.20:53:10::SCWMssOS::Mss edits present, copying mssfile into export location /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-05-12.20:53:10::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-05-12.20:53:10::SCWDomain::Skipping the build for domain :  standalone_ps7_cortexa9_0
+TRACE::2022-05-12.20:53:10::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-05-12.20:53:10::SCWMssOS::Copying to export directory.
+TRACE::2022-05-12.20:53:10::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-05-12.20:53:10::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2022-05-12.20:53:10::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2022-05-12.20:53:10::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2022-05-12.20:53:10::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2022-05-12.20:53:10::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2022-05-12.20:53:10::SCWPlatform::Started preparing the platform 
+TRACE::2022-05-12.20:53:10::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2022-05-12.20:53:10::SCWSystem::dir created 
+TRACE::2022-05-12.20:53:10::SCWSystem::Writing the bif 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Started writing the spfm file 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Completed generating the platform
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4c93f316c9e10fd0d3f3ec3cf641ea58",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"e98f979ccc310e079e0617cd6f0af564",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-05-12.20:53:10::SCWPlatform::updated the xpfm file.
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4c93f316c9e10fd0d3f3ec3cf641ea58",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"e98f979ccc310e079e0617cd6f0af564",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4c93f316c9e10fd0d3f3ec3cf641ea58",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"e98f979ccc310e079e0617cd6f0af564",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-05-12.20:53:10::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2022-05-12.20:53:10::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-05-12.20:53:10::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2022-05-12.20:53:10::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2022-05-12.20:53:10::SCWDomain::Generating domain artifcats
+TRACE::2022-05-12.20:53:10::SCWMssOS::Generating standalone artifcats
+TRACE::2022-05-12.20:53:10::SCWMssOS::Copying the qemu file from  /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/qemu/
+TRACE::2022-05-12.20:53:10::SCWMssOS::Copying the qemu file from  /home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_ps7_cortexa9_0/qemu/
+TRACE::2022-05-12.20:53:10::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writing the mss file at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2022-05-12.20:53:10::SCWMssOS::Mss edits present, copying mssfile into export location /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-05-12.20:53:10::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-05-12.20:53:10::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2022-05-12.20:53:10::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-05-12.20:53:10::SCWMssOS::Copying to export directory.
+TRACE::2022-05-12.20:53:10::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-05-12.20:53:10::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2022-05-12.20:53:10::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2022-05-12.20:53:10::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2022-05-12.20:53:10::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2022-05-12.20:53:10::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2022-05-12.20:53:10::SCWPlatform::Started preparing the platform 
+TRACE::2022-05-12.20:53:10::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2022-05-12.20:53:10::SCWSystem::dir created 
+TRACE::2022-05-12.20:53:10::SCWSystem::Writing the bif 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Started writing the spfm file 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-05-12.20:53:10::SCWPlatform::Completed generating the platform
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Saving the mss changes /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-05-12.20:53:10::SCWMssOS::Commit changes completed.
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to open the hw design at /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA given /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA absoulate path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform::DSA directory /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Platform Path /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2022-05-12.20:53:10::SCWPlatform:: Unique name xilinx:zybo-z7-10::0.0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-05-12.20:53:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-05-12.20:53:10::SCWMssOS::Checking the sw design at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWMssOS::DEBUG:  swdes dump  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-05-12.20:53:10::SCWMssOS::Sw design exists and opened at  /home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/software/design_1_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2022-05-12.20:53:10::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"4c93f316c9e10fd0d3f3ec3cf641ea58",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.6", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/home/gabriel/Desktop/Xilinx/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"e98f979ccc310e079e0617cd6f0af564",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-05-12.20:53:10::SCWPlatform::updated the xpfm file.
