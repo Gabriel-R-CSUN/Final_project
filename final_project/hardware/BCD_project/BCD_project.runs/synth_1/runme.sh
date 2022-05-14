@@ -20,7 +20,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/BCD_project/BCD_project.runs/synth_1'
+HD_PWD='/home/gabriel/Desktop/Vitis_Vivado_workspace/Final_project/final_project/hardware/BCD_project/BCD_project.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
@@ -36,4 +36,4 @@ EAStep()
      fi
 }
 
-EAStep vivado -log Seven_segment_LED_Display_Controller.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source Seven_segment_LED_Display_Controller.tcl
+EAStep vivado -log design_1_wrapper.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl

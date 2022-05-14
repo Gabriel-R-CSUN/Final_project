@@ -27,7 +27,7 @@ eval( EAInclude(ISEJScriptLib) );
 
 
 ISEStep( "vivado",
-         "-log Seven_segment_LED_Display_Controller.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source Seven_segment_LED_Display_Controller.tcl" );
+         "-log design_1_wrapper.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl" );
 
 
 

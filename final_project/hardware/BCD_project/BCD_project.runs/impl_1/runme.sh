@@ -20,7 +20,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/BCD_project/BCD_project.runs/impl_1'
+HD_PWD='/home/gabriel/Desktop/Vitis_Vivado_workspace/Final_project/final_project/hardware/BCD_project/BCD_project.runs/impl_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
@@ -38,6 +38,6 @@ EAStep()
 
 # pre-commands:
 /bin/touch .init_design.begin.rst
-EAStep vivado -log Seven_segment_LED_Display_Controller.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source Seven_segment_LED_Display_Controller.tcl -notrace
+EAStep vivado -log design_1_wrapper.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source design_1_wrapper.tcl -notrace
 
 

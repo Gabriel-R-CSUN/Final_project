@@ -3,10 +3,10 @@
 <!--                                                         -->
 <!-- Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="56" Path="/home/gabriel/Desktop/Vitis_Vivado_workspace/final_project/hardware/ip_repo/edit_bcd_ip_v1_0.xpr">
+<Project Version="7" Minor="56" Path="/home/gabriel/Desktop/Vitis_Vivado_workspace/Final_project/final_project/hardware/ip_repo/edit_bcd_ip_v1_0.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="3c57ae7b388a4c2d84d3b70cb2f929b4"/>
+    <Option Name="Id" Val="305cd94979674fabb3c6e287c688fc46"/>
     <Option Name="Part" Val="xc7z010clg400-1"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>
@@ -43,10 +43,11 @@
     <Option Name="SimulatorGccVersionRiviera" Val="6.2.0"/>
     <Option Name="SimulatorGccVersionActiveHdl" Val="6.2.0"/>
     <Option Name="BoardPart" Val="digilentinc.com:zybo-z7-10:part0:1.0"/>
-    <Option Name="BoardPartRepoPaths" Val="$PPRDIR/../../../../../.Xilinx/Vivado/2021.2/xhub/board_store/xilinx_board_store"/>
+    <Option Name="BoardPartRepoPaths" Val="$PPRDIR/../../../../../../.Xilinx/Vivado/2021.2/xhub/board_store/xilinx_board_store"/>
     <Option Name="ActiveSimSet" Val="sim_1"/>
     <Option Name="DefaultLib" Val="xil_defaultlib"/>
     <Option Name="ProjectType" Val="Default"/>
+    <Option Name="IPRepoPath" Val="$PPRDIR/bcd_ip_1.0"/>
     <Option Name="IPRepoPath" Val="$PPRDIR/bcd_ip_1.0"/>
     <Option Name="IPOutputRepo" Val="$PCACHEDIR/ip"/>
     <Option Name="IPDefaultOutputPath" Val="$PGENDIR/sources_1"/>
@@ -107,7 +108,7 @@
       <File Path="$PPRDIR/bcd_ip_1.0/component.xml">
         <FileInfo SFType="IPXACT"/>
       </File>
-      <File Path="$PPRDIR/../bcd_counter.v">
+      <File Path="$PPRDIR/bcd_ip_1.0/src/bcd_counter.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
           <Attr Name="UsedIn" Val="synthesis"/>
